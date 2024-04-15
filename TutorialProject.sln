@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{06012BEB-B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialProject.Application", "TutorialProject.Application\TutorialProject.Application.csproj", "{0A271EE3-4D4E-4F71-820B-0C7ACCF912A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialProjectHavaDurumuConsumer", "TutorialProjectHavaDurumuConsumer\TutorialProjectHavaDurumuConsumer.csproj", "{472CE173-EE9A-419B-AB7D-49DB2886F01E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0A271EE3-4D4E-4F71-820B-0C7ACCF912A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A271EE3-4D4E-4F71-820B-0C7ACCF912A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A271EE3-4D4E-4F71-820B-0C7ACCF912A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472CE173-EE9A-419B-AB7D-49DB2886F01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472CE173-EE9A-419B-AB7D-49DB2886F01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472CE173-EE9A-419B-AB7D-49DB2886F01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472CE173-EE9A-419B-AB7D-49DB2886F01E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 		{2D515850-EB5B-47CF-8502-2B63F6AC6C9B} = {F53095C2-A742-45D2-B851-F1FB13D8C22E}
 		{06012BEB-B836-4DC3-8DD6-761C761D9EF5} = {F53095C2-A742-45D2-B851-F1FB13D8C22E}
 		{0A271EE3-4D4E-4F71-820B-0C7ACCF912A3} = {06012BEB-B836-4DC3-8DD6-761C761D9EF5}
+		{472CE173-EE9A-419B-AB7D-49DB2886F01E} = {2D515850-EB5B-47CF-8502-2B63F6AC6C9B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90C95019-D267-4683-AE2F-B6CB691D7B93}
